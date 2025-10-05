@@ -11,13 +11,15 @@ Test data is read from **Excel**, and screenshots are captured after form submis
 
 https://github.com/Agnidathank/Automationtaskprevise
 
-2. Activate Python Environment
+2. Create and Activate Python Environment if needed
+
+python -m venv venv
 
 venv\Scripts\activate
 
 3. Install Dependencies
 
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 4.Run tests
 
